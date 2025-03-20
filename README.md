@@ -1,5 +1,7 @@
 # Youtube Style Video
 
+![alt text](https://github.com/Abhishekharsh007/YoutubeStyleVideo/blob/main/ingi.png?raw=true)
+
 ## Objective
 
 - Build a YouTube-style video listing page that fetches and displays videos from the FreeAPI YouTube endpoint.
